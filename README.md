@@ -1,12 +1,22 @@
-## Olá! Eu sou o Marcello Queiroz, seja be vindo!!
+## 👋 Olá, bem vindo ao meu GitHub
+<!--
+- 🔭 Atualmente estou trabalhando em ...
+- 🌱 Atualmente estou aprendendo ...
+- 👯 Estou procurando colaborar em ...
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como entrar em contato comigo: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...-->
+
  <div>
   <a href="https://github.com/Mquefi">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mquefi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="color=#ffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mquefi&layout=compact&langs_count=8&theme=gotham"/>
  </div>
-  <!--<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mquefi&layout=compact&langs_count=8&theme=gotham"/>-->
+  
 
 <div style="display: inline_block"><br>
-  Linguagens mais usadas:
   <img align="center" alt="Marcello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcello-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcello-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
