@@ -11,10 +11,10 @@
 
  <div>
   <a href="https://github.com/Mquefi">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mquefi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="color=#ffff"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mquefi&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mquefi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="color=#ffff"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mquefi&layout=compact&langs_count=8&theme=gotham"/>
  </div>
-  
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcello-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
